@@ -7,7 +7,7 @@
 - 二次开发非常简单
 
 [Gitee](https://gitee.com/jackrolling/json-flow)
-[快速入门](/flow/flow.md#docsify)
+[快速入门](/docs/flow.md#docsify)
 
 <!-- 背景色 -->
 
