@@ -72,6 +72,11 @@
 #### 关于作者&&微信群
 - 欢迎大家进群一起交流 🔥🔥🔥
 
-- ![03](/about/me.png)
-- ![03](/about/group.png)
+<table>
+  <tr>
+    <td><img src="docs/about/me.png"></td>
+    <td><img src="docs/about/group.png"></td>
+  </tr>
+</table>
+
 
