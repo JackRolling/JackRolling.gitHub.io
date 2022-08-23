@@ -1,6 +1,8 @@
+![08](/favicon.ico)
+
 ### 欢迎使用JsonFlow 1.0.0工作流系统
 
-#### JsonFlow在线演示
+### JsonFlow在线演示
 [点击预览](https://jackrolling.github.io/#/)
 
 #### 绝对简单易用且适合较复杂场景的中国式审批的工作流（工作流引擎+前端工作流管理界面，请加群咨询或交流）
