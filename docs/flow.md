@@ -3,7 +3,7 @@
 ### 欢迎使用JsonFlow 1.0.0工作流系统
 
 ### JsonFlow在线演示  [Gitee最新,点击前往](https://gitee.com/jackrolling/json-flow-ui)
-[点击预览](http://flow.pigx.vip/#/login)（注：JsonFlow只是工作流管理模块）
+[点击预览](http://flow.pigx.vip/#/login)（注：JsonFlow只是其中的工作流管理模块）
 
 ### JsonFlow在线文档
 [点击预览](https://jackrolling.github.io/#/)
